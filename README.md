@@ -1,52 +1,21 @@
-🎮 Transcendance
-Transcendance est un projet réalisé dans le cadre de l'école 42, combinant Three.js et le développement de jeux pour offrir une expérience unique.
+# Mes projets 🎨
 
-📖 Description
-Ce projet est un jeu immersif basé sur Three.js, une bibliothèque JavaScript pour créer des animations 3D dans un navigateur. Transcendance explore les limites de la création de mondes 3D interactifs et propose une aventure ludique, innovante et amusante.
+Bienvenue sur cette page qui regroupe mes projets GitHub. Chacun de ces dépôts correspond à un projet dans différents domaines (web, jeu vidéo, etc.). Vous trouverez une courte description et un lien vers chaque projet ci-dessous.
 
-🖼️ Captures d'écran
-(Ajoute ici des captures d’écran de ton jeu pour illustrer l’apparence et les fonctionnalités principales)
+---
 
-🚀 Fonctionnalités
-Graphismes 3D interactifs via Three.js
-Expérience utilisateur fluide grâce à une architecture performante
-Multijoueur avec des fonctionnalités en temps réel (si applicable)
-Gameplay immersif avec des mécaniques dynamiques
-🛠️ Technologies Utilisées
-Three.js - Bibliothèque 3D pour le Web
-Node.js - Backend pour la gestion des serveurs (si applicable)
-WebSocket - Communication en temps réel (si applicable)
-TypeScript - Pour un développement plus robuste (si applicable)
-Autres : Ajoute ici d'autres technologies spécifiques à ton projet.
-📦 Installation
-Pré-requis
-Node.js (v14.x ou plus récent)
-NPM ou Yarn
-Instructions
-Clone ce repository :
+## 🌐 [Projet 1: Transcendence] (https://github.com/votre-repo/transcendance)
+Un site web réalisé avec Django et Docker, combinant une application de jeu et une interface utilisateur. Ce projet inclut un jeu Pong en **Three.js** accessible via **iframe** et utilise **HTTPS** pour les requêtes sécurisées.
 
-bash
-Copier le code
-git clone https://github.com/tonutilisateur/transcendance.git
-cd transcendance
-Installe les dépendances :
+![Transcendance Demo](https://your-image-link.png)
 
-bash
-Copier le code
-npm install
-Lance le projet :
+**Tech stack:** Django, Docker, Three.js, JavaScript, python, HTML/CSS
 
-bash
-Copier le code
-npm start
-Accède au jeu via ton navigateur :
-http://localhost:3000
+---
 
-🤝 Contribution
-Les contributions sont les bienvenues ! Suis les étapes ci-dessous pour contribuer :
+## 🎮 [Projet 2: Cub3D] (https://github.com/votre-repo/threejs-game)
+Un jeu en 3D développé avec **Three.js**. Ce projet met en avant l'utilisation de WebGL pour des graphismes 3D interactifs.
 
-Fork ce repository.
-Crée une branche pour ta fonctionnalité (git checkout -b nouvelle-feature).
-Commit tes modifications (git commit -m 'Ajout d'une nouvelle feature').
-Push vers la branche (git push origin nouvelle-feature).
-Ouvre une Pull Request.
+![Cub3D Demo](https://your-image-link.png)
+
+**Tech stack:** C, miniLibx (bibliothèque fournie pour le projet)
