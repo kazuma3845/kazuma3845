@@ -4,17 +4,17 @@ Bienvenue sur cette page qui regroupe mes projets GitHub. Chacun de ces dépôts
 
 ---
 
-## 🌐 [Projet 1: Transcendence] (https://github.com/votre-repo/transcendance)
+## 🌐 [Projet 1: Transcendence] (https://github.com/kazuma3845/transcendence)
 Un site web réalisé avec Django et Docker, combinant une application de jeu et une interface utilisateur. Ce projet inclut un jeu Pong en **Three.js** accessible via **iframe** et utilise **HTTPS** pour les requêtes sécurisées.
 
-![Transcendance Demo](https://your-image-link.png)
+![Transcendence Demo](https://your-image-link.png)
 
 **Tech stack:** Django, Docker, Three.js, JavaScript, python, HTML/CSS
 
 ---
 
-## 🎮 [Projet 2: Cub3D] (https://github.com/votre-repo/threejs-game)
-Un jeu en 3D développé avec **Three.js**. Ce projet met en avant l'utilisation de WebGL pour des graphismes 3D interactifs.
+## 🎮 [Projet 2: Cub3D] (https://github.com/kazuma3845/Cub3D)
+Un jeu en 3D développé en C. Ce projet met en avant l'utilisation de raycasting.
 
 ![Cub3D Demo](https://your-image-link.png)
 
