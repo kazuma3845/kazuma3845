@@ -16,6 +16,6 @@ Un site web réalisé avec Django et Docker, combinant une application de jeu et
 ## 🎮 [Projet 2: Cub3D] (https://github.com/kazuma3845/Cub3D)
 Un jeu en 3D développé en C. Ce projet met en avant l'utilisation de raycasting.
 
-![Cub3D Demo]((https://github.com/kazuma3845/Cub3D/blob/main/cub.mov))
+![Cub3D Demo](https://github.com/kazuma3845/Cub3D/blob/main/cub.mov)
 
 **Tech stack:** C, miniLibx (bibliothèque fournie pour le projet)
