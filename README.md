@@ -1,4 +1,4 @@
-[(https://github.com/kazuma3845/kazuma3845/blob/main/utiles/banner.jpeg)]
+![Banner](https://github.com/kazuma3845/kazuma3845/blob/main/utiles/banner.jpeg)
 
 # Mes projets 🎨
 
