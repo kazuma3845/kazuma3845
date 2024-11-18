@@ -31,6 +31,6 @@ https://github.com/user-attachments/assets/471746c3-eb48-484f-962e-2019e17cf7f2
 ## 🎮 [Projet 2: Cub3D](https://github.com/kazuma3845/Cub3D)
 Un jeu en 3D développé en C. Ce projet met en avant l'utilisation de raycasting.
 
-[![Cub3D Demo](https://img.youtube.com/vi/4GfGld56dJE/0.jpg)](https://www.youtube.com/watch?v=4GfGld56dJE)
+https://github.com/user-attachments/assets/4a1adaa1-94a5-4396-a779-ad7d1cfe211a
 
 **Tech stack:** C, miniLibx (bibliothèque fournie pour le projet)
