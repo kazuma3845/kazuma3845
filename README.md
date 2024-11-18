@@ -23,7 +23,7 @@ Bienvenue sur cette page qui regroupe mes projets GitHub. Chacun de ces dépôts
 Un site web réalisé avec Django et Docker, combinant une application de jeu et une interface utilisateur. Ce projet inclut un jeu Pong en **Three.js** accessible via **iframe** et utilise **HTTPS** pour les requêtes sécurisées.
 
 <video controls>
-    <source src="https://github.com/kazuma3845/ft_transcendence/issues/1#issue-2667963432/Transcendence.video.mp4" type="video/mp4">
+    <source src="https://github.com/kazuma3845/ft_transcendence/issues/1#issue-2667963432/video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
