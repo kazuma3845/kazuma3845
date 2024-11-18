@@ -22,11 +22,7 @@ Bienvenue sur cette page qui regroupe mes projets GitHub. Chacun de ces dépôts
 ## 🌐 [Projet 1: Transcendence](https://github.com/kazuma3845/ft_transcendence)
 Un site web réalisé avec Django et Docker, combinant une application de jeu et une interface utilisateur. Ce projet inclut un jeu Pong en **Three.js** accessible via **iframe** et utilise **HTTPS** pour les requêtes sécurisées.
 
-<video controls>
-    <source src="https://github.com/user-attachments/assets/471746c3-eb48-484f-962e-2019e17cf7f2" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/471746c3-eb48-484f-962e-2019e17cf7f2
 
 **Tech stack:** Django, Docker, Three.js, JavaScript, Python, HTML/CSS
 
