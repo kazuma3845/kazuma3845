@@ -23,7 +23,7 @@ Bienvenue sur cette page qui regroupe mes projets GitHub. Chacun de ces dépôts
 Un site web réalisé avec Django et Docker, combinant une application de jeu et une interface utilisateur. Ce projet inclut un jeu Pong en **Three.js** accessible via **iframe** et utilise **HTTPS** pour les requêtes sécurisées.
 
 <video controls>
-    <source src="https://private-user-images.githubusercontent.com/149237237/387169160-471746c3-eb48-484f-962e-2019e17cf7f2.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE5MjUzOTIsIm5iZiI6MTczMTkyNTA5MiwicGF0aCI6Ii8xNDkyMzcyMzcvMzg3MTY5MTYwLTQ3MTc0NmMzLWViNDgtNDg0Zi05NjJlLTIwMTllMTdjZjdmMi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExOFQxMDE4MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Mzc4MjA2YmM3MDI4YmI2NzU0YjMxZjVhYzJiMDZmNTE0MzZmZmVkYzQ3MzcxYjEyMjQzYjdjZTUyYjc1M2U1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.L4839LHVQ-NoXgoFKDW_aCaX5J04C6AHCyCmaCIF33Q" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/471746c3-eb48-484f-962e-2019e17cf7f2/Video.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
